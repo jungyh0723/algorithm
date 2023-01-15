@@ -1,4 +1,4 @@
-//3차원 배열과 bfs를 사용해고 배열에 1씩 더하는 방법을 사용해서 품
+//3차원 배열과 bfs를 사용해고 배열에 1씩 더하는 방법을 사용하여 품
 
 #include <iostream>
 #include <cstdio>
